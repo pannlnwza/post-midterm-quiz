@@ -26,3 +26,5 @@ def gen_comb_list(list_set):
 # print(comb_list, len(comb_list), [x, y])
 # comb_list = gen_comb_list([x, y, z])
 # print(comb_list, len(comb_list), [x, y, z])
+
+
